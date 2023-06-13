@@ -1,0 +1,12 @@
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\bin\Debug\revisao2b.exe.config
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\bin\Debug\revisao2b.exe
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\bin\Debug\revisao2b.pdb
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.csproj.AssemblyReference.cache
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.Menu.resources
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.Properties.Resources.resources
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.csproj.GenerateResource.cache
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.csproj.CoreCompileInputs.cache
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.exe
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.pdb
+C:\Users\2022102020072\source\repos\revisao2b\revisao2b\obj\Debug\revisao2b.Divisao.resources
